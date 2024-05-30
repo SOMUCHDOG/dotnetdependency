@@ -1,5 +1,5 @@
 # dotnetdependency
-Bash script to parse any number of dotnet projects and create files indicating dependencies
+Bash script to parse any number of dotnet projects and create files indicating dependencies. Reminder this is a BASH script and will not work in powershell. You may need to install a bash based shell.
 
 ## Usage
 
