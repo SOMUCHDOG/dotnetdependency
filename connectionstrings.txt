@@ -1,1 +1,0 @@
-./dependencies.sh:42:  grep -r -i -n "sql2019" ./ | sort | uniq | sed 's/$/\r/' > connectionstrings.txt
